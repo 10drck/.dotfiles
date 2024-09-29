@@ -66,8 +66,6 @@ alias timer='echo "Timer started. Stop with Ctrl-D." && date "+%a, %d %b %H:%M:%
 # dev shortcuts
 alias g='git'
 alias python='python3'
-alias v='nvim'
-alias vim="nvim"
 
 # typos
 alias :q='exit'
