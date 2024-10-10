@@ -78,7 +78,6 @@ plugins=(
   git
   zsh-syntax-highlighting
   zsh-autosuggestions
-  zsh-history-substring-search
   colored-man-pages
   fzf
   gh
